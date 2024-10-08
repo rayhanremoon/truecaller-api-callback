@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "733534093075",
+    "firebase_url": "https://rayhan-callback-server-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "rayhan-callback-server",
+    "storage_bucket": "rayhan-callback-server.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:733534093075:android:90eab08e1cf674d1eaa4e6",
+        "android_client_info": {
+          "package_name": "com.rayhan.truecaller.contact.managementapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOwj9t2G8nEwb2zjNyjlH8qjY899bh0jI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
